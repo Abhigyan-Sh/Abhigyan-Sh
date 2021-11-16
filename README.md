@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning to deploy awesome websites
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me at abhigyanshukla09@gmail.com
+- currently persuing my b.tech from AKGEC: Ajay Kumar Garg Engineering College, Ghaziabad.
