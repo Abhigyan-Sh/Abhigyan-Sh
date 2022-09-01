@@ -25,27 +25,27 @@
 - 👨‍🎓 currently persuing my b.tech from AKGEC: Ajay Kumar Garg Engineering College, Ghaziabad.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60px"/></a> 
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://utillities.netlify.app/ToolImages/express.png'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://utillities.netlify.app/ToolImages/nodeJS.jpg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60"/> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://utillities.netlify.app/ToolImages/brownie.jpg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://utillities.netlify.app/ToolImages/hardhat.png'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://utillities.netlify.app/ToolImages/ethereumBlockchain.jpg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src = 'https://utillities.netlify.app/ToolImages/solidity.png'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://utillities.netlify.app/ToolImages/ganache.jpg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://utillities.netlify.app/ToolImages/metamask.png'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://utillities.netlify.app/ToolImages/babel.jpg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://utillities.netlify.app/ToolImages/nextJS.png'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://utillities.netlify.app/ToolImages/vscode.png'> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60"/> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60px"/></a> 
+<a href="" > <img width ='60px' src ='https://utillities.netlify.app/ToolImages/express.png'> </a>
+<a href=""> <img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href=""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/nodeJS.jpg'> </a>
+<a href= "" <img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= ""> <img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= ""> <img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= ""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" </a> 
+<a href= ""> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60"/> </a>
+<a href= ""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/brownie.jpg'> </a>
+<a href= ""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/hardhat.png'> </a>
+<a href= ""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/ethereumBlockchain.jpg'> </a>
+<a href= ""> <img width ='60px' src = 'https://utillities.netlify.app/ToolImages/solidity.png'> </a>
+<a href= ""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/ganache.jpg'> </a>
+<a href= ""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/metamask.png'> </a>
+<a href= ""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/babel.jpg'> </a>
+<a href= ""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/nextJS.png'> </a>
+<a href= ""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/vscode.png'> </a>
+<a href= ""> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60"/> </a>
+<a href= ""> <img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= ""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
