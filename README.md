@@ -42,6 +42,7 @@
 <a href= ""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/babel.jpg'> </a>
 <a href= ""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/nextJS.png'> </a>
 <a href= ""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/vscode.png'> </a>
+<a href= ""> <img width ='60px' src ='https://utillities.netlify.app/ToolImages/typescript.png'> </a>
 <a href= ""> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60"/> </a>
 <a href= ""> <img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= ""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/> </a>
